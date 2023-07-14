@@ -1,0 +1,13 @@
+E:\DRGModding\UnrealProjects\drg-mods\Plugins\Nvidia\FSDAnsel\Intermediate\Build\Win64\UE4Editor\Development\FSDAnsel\Definitions.FSDAnsel.h
+E:/DRGModding/UnrealProjects/drg-mods/Plugins/Nvidia/FSDAnsel/Source/FSDAnsel/Private/FSDAnselFunctionLibrary.cpp
+E:\DRGModding\UnrealProjects\drg-mods\Plugins\Nvidia\FSDAnsel\Source\FSDAnsel\Public\FSDAnselFunctionLibrary.h
+E:\DRGModding\UnrealProjects\drg-mods\Plugins\Nvidia\FSDAnsel\Source\FSDAnsel\Public\EUIControlEffectTarget.h
+E:\DRGModding\UnrealProjects\drg-mods\Plugins\Nvidia\FSDAnsel\Intermediate\Build\Win64\UE4Editor\Inc\FSDAnsel\EUIControlEffectTarget.generated.h
+E:\EpicGames\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/NoExportTypes.h
+E:\EpicGames\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/PropertyAccessUtil.h
+E:\EpicGames\UE_4.27\Engine\Source\Runtime\Core\Public\Math/UnitConversion.h
+E:\EpicGames\UE_4.27\Engine\Source\Runtime\Core\Public\Math/UnitConversion.inl
+E:\EpicGames\UE_4.27\Engine\Source\Runtime\Core\Public\Internationalization/PolyglotTextData.h
+E:\EpicGames\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\AssetRegistry/ARFilter.h
+E:\DRGModding\UnrealProjects\drg-mods\Plugins\Nvidia\FSDAnsel\Intermediate\Build\Win64\UE4Editor\Inc\FSDAnsel\FSDAnselFunctionLibrary.generated.h
+E:/DRGModding/UnrealProjects/drg-mods/Plugins/Nvidia/FSDAnsel/Source/FSDAnsel/Private/FSDAnselModule.cpp
